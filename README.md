@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Logo.png" alt="End Task All Logo" width="140"/>
+<img src="./Logo.png" alt="End Task All Logo" style="max-width:100%; height:auto;"/>
 
 # End Task All
 
